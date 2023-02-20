@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *  main - entry point
- *  Description: print sizes of various data types on my computer
+ *  Description: prints sizes of various data types on my computer
  *  Return: 0
  */
 int main(void)
