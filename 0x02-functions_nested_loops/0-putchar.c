@@ -1,12 +1,12 @@
 #include "main.h"
 /**
  * main - entry point
- * Description: Printf the string "_putchar" wothout the use of standard library
+ * Description: Print string "_putchar" no use of standard library
  * Return: 0
  */
 int main(void)
 {
-	char* ptr = "_putchar";
+	char *ptr = "_putchar";
 
 	while (*ptr)
 	{
