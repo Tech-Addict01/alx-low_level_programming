@@ -3,6 +3,7 @@
 /**
  * _isupper - function name
  * Description: checks if letter is uppercase
+ * @c: print intiger
  * Return: 1 (success) 0 (fail)
  */
 int _isupper(int c)
