@@ -8,13 +8,13 @@
  */
 void swap_int(int *a, int *b)
 {
-	int m = 98;
-	int n = 42;
-	int *p = &m;
-	int *q = &n;
+	int x = 98;
+	int y = 42;
+	int *p = &x;
+	int *q = &y;
 
-	*a = *p;
-	*b = *q;
-	*a = 42;
-	*b = 98;
+	*a = *q;
+	*b = *p;
 }
+
+
