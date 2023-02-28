@@ -8,7 +8,6 @@
 0x01-variables_if_else_while/6-print_numberz
 0x01-variables_if_else_while/7-print_tebahpla
 0x01-variables_if_else_while/8-print_base16
-0x01-variables_if_else_while/9-print_comb.c
 0x02-functions_nested_loops/3-islower
 0x02-functions_nested_loops/4-isalpha
 0x02-functions_nested_loops/5-sign
@@ -27,3 +26,6 @@
 *main.c
 *putchar.c
 0x05-pointers_arrays_strings/0-98
+0x01-variables_if_else_while/9-print_comb
+0x05-pointers_arrays_strings/1-swap
+0x05-pointers_arrays_strings/2-strlen   
