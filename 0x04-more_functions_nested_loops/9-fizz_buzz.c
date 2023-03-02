@@ -23,28 +23,33 @@ int main(void)
 		if (modivp == 0)
 		{
 			printf("FizzBuzz");
+			printf(" ");
 		}
 		else if (modiv5 == 0)
 		{
 			printf("Buzz");
+			printf(" ");
 		}
 		else if (modiv3 == 0)
 		{
 			printf("Fizz");
+			printf(" ");
 		}
 		else
 		{
 			printf("%d", n);
+			printf(" ");
 		}
 
-		if (n < 100)
+/*		if (n < 100)
 		{
 			printf(" ");
 		}
 		else
 		{
 			printf("\n");
-		}
+		}*/
 	}
+	printf("\n");
 	return (0);
 }
