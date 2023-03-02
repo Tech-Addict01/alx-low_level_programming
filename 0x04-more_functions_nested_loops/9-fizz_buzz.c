@@ -22,19 +22,19 @@ int main(void)
 
 		if (modivp == 0)
 		{
-			printf("FizzBuzz ");
+			printf(" FizzBuzz");
 		}
 		else if (modiv5 == 0)
 		{
-			printf("Buzz ");
+			printf(" Buzz");
 		}
-		else if(modiv3 == 0)
+		else if (modiv3 == 0)
 		{
-			printf("Fizz ");
+			printf(" Fizz");
 		}
 		else
 		{
-			printf("%d ", n);
+			printf(" %d", n);
 		}
 	}
 	printf("\n");
