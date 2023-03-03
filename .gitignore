@@ -28,4 +28,15 @@
 0x05-pointers_arrays_strings/0-98
 0x01-variables_if_else_while/9-print_comb
 0x05-pointers_arrays_strings/1-swap
-0x05-pointers_arrays_strings/2-strlen   
+0x05-pointers_arrays_strings/2-strlen
+0x02-functions_nested_loops/10-add
+0x02-functions_nested_loops/7-last_digit
+0x04-more_functions_nested_loops/10-triangles
+0x04-more_functions_nested_loops/100-prime_factor
+0x04-more_functions_nested_loops/101-print_numbers
+0x04-more_functions_nested_loops/5-more_numbers
+0x04-more_functions_nested_loops/6-lines
+0x04-more_functions_nested_loops/7-diagonals
+0x04-more_functions_nested_loops/8-squares
+0x04-more_functions_nested_loops/9-fizz_buzz
+0x05-pointers_arrays_strings/3-puts
